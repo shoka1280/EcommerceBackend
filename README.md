@@ -45,7 +45,7 @@
 <img width="605" alt="ER-Diagram" src="https://user-images.githubusercontent.com/101395494/216134703-e7cefef6-187f-44df-9fd4-52aedc66d24b.png">
 
 # Swagger-ui
-<img width="947" alt="Swagger-UI" src="https://user-images.githubusercontent.com/101395494/216388614-f8eed33e-cbbb-4cfa-997e-b76674bbb465.png">
+<img width="947" alt="Swagger-UI" src="https://github.com/user-attachments/assets/f2af6d99-a2b4-4df9-9562-461f856f01c6">
 
 # API Controllers
 <img width="947" alt="Auth_Controller" src="https://user-images.githubusercontent.com/101395494/216388749-4f15d968-ae52-48a9-9c08-0b72d608084a.png">
